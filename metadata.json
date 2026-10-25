@@ -1,0 +1,6 @@
+{
+  "name": "مختبر المرونة وقانون هوك — النابض الحلزوني والأثقال",
+  "description": "منصة تعليمية تفاعلية لمحاكاة نشاط مفهوم المرونة وقانون هوك عبر تعليق الأثقال شاقولياً بالنابض الحلزوني وقياس الاستطالة عملياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
